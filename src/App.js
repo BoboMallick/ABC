@@ -44,6 +44,7 @@ const App = () => {
           </div>
         </Parallax>
       </div>
+
       <Container className="container-box rounded">
         <Slide bottom duration={500}>
           <hr />
@@ -61,7 +62,7 @@ const App = () => {
       <Container className="container-box rounded">
         <Slide bottom duration={500}>
           <hr />
-          <Blog></Blog>
+          <Blog/>
         </Slide>
       </Container>
 

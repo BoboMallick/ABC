@@ -26,7 +26,6 @@ const MyNavbar = () => {
               <Nav.Link className="ml-5" href="#about">About</Nav.Link>
               <Nav.Link className="ml-5" href="#skills">Skills</Nav.Link>
               <Nav.Link className="ml-5" href="#projects">Projects</Nav.Link>
-              {/* <Nav.Link href="#experience">Experience</Nav.Link> */}
               <Nav.Link className="ml-5" href="#blog">Blog</Nav.Link>
               <Nav.Link className="ml-5" href="#contact">Contact</Nav.Link>
             </Nav>
